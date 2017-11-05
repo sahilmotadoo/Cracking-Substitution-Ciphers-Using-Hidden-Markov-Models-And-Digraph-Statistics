@@ -337,8 +337,8 @@ int main() {
         printf("\n\n");
     }
     /*
-       This is the logic used to Calculate the number of correct positions (cipher to plain text mapping).
-       We can thus use this information in order to claculate the putative key for the cipher text.
+       This is the logic used to calculate the number of correct positions (cipher to plain text mapping).
+       We can thus use this information in order to calculate the putative key for the cipher text.
     */
     printf("\nPutative Key: \n");
     printf("Incorrect sequence values indicate incorrect plain-cipher text mapping\n");
